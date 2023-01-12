@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.ee7b3a9aadd516b9c6eb8c940492fb83.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.7c4f39016f6aebfbe409221e1b256be5.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.5ccc467dcd26276cde9049264506f720.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.9e761061f97e5fcab70dd124d3c11dc5.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.fadaaf1e8dfc846957847684b55d9e55.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "dahorababy",
+  "short_name": "dahorababy",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "dahorababy",
+  "background_color": "#ffffff",
+  "theme_color": "#393e46"
+}
